@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+My notes on cryptography
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+I write concepts that I know in cryptography and try to implement them with Rust.
